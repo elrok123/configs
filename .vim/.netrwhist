@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/conner/deliverability/src/Clients/views'
+let g:netrw_dirhist_2='/Users/conner/deliv-toi/src/Clients/views'
+let g:netrw_dirhist_3='/Users/conner/deliv-toi/src/Clients'
+let g:netrw_dirhist_4='/Users/conner/deliv-toi/src/Clients/views'
+let g:netrw_dirhist_5='/Users/conner/deliv-toi/src/Contract'
+let g:netrw_dirhist_6='/Users/conner/deliv-toi/src/Contract/views'
+let g:netrw_dirhist_7='/Users/conner/mailer-mailxpertise/new-system'
